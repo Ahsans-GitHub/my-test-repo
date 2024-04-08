@@ -1,5 +1,5 @@
 let greet = "hello";
 
-let username = "Ahsan"
+let username = "Ahsan";
 
 console.log(greet + " " + username);
